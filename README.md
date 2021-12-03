@@ -1,5 +1,8 @@
 # example-screen
 可视化大屏
+#将数据以图形的形式展示
+#更有效的传达数据中的信息
+
 # flexible
 # echarts
 # jquery
